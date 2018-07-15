@@ -11,8 +11,6 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
-alias und='/home/prow/CloseSourceStuff/scitools/bin/linux64/understand'
-alias xenp='/home/prow/Workspace/project/PLATFORM/projects/xen'
 
 function exists { which $1 &> /dev/null }
 
