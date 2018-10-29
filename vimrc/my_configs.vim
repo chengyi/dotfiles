@@ -8,6 +8,12 @@ try
 catch
 endtry
 
-
 " disable comfortable motion
 let g:comfortable_motion_no_default_key_mappings = 1
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set encoding=utf-8
+set smarttab
+set softtabstop=4
