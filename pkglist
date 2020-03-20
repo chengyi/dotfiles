@@ -1,0 +1,32 @@
+firefox
+firefox-i18n-zh-cn
+shadowsocksr
+fcitx-im
+fcitx-configtool
+fcitx-qt4
+fcitx-rime
+nutstore
+keepassxc
+feh
+polybar
+noto-fonts-cjk
+ttf-font-awesome
+xfce4-terminal
+ttf-cascadia-code
+flameshot
+pulseaudio
+pa-applet
+the_silver_searcher
+fd
+rustup
+rofi
+proxychains
+ssr2json
+zsh
+emacs
+tig
+ccls-git
+mu
+
+- gimp
+- palemoon-bin
